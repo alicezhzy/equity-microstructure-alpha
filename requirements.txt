@@ -1,0 +1,12 @@
+numpy
+pandas
+polars
+pyarrow
+scikit-learn
+lightgbm
+matplotlib
+seaborn
+pyyaml
+pytest
+tqdm
+memory-profiler
