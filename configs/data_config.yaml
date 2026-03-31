@@ -1,0 +1,6 @@
+symbol: AAPL
+raw_filename: aapl_trades_2022-09-20.parquet
+target_horizon: 1
+filter_bad_jumps: false
+regular_trading_hours_only: false
+output_filename: aapl_features.parquet
